@@ -38,6 +38,7 @@
 
 #include "config.h"
 #include "limiter.h"
+#include <cstdio>
 
 typedef void* hkey_t;
 
